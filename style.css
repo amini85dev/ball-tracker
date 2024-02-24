@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    position: relative;
+}
+/* canvas{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(233, 0, 0);
+    border-radius: 50% ;
+    position: fixed;
+    left: 10px;
+    top: 30px;
+} */
